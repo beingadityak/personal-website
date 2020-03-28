@@ -1,0 +1,14 @@
+baseURL = "http://adityakrishnakumar.tk/"
+languageCode = "en-us"
+title = "The Ops Blog"
+theme = "hyde"
+
+[params]
+  description = "This is a blog about System Administration, AWS & Operations in general"
+  themeColor = "theme-base-0d"
+
+[Menus]
+  main = [
+      {Name = "Aditya's Github", URL = "https://github.com/beingadityak/"},
+      {Name = "Aditya's LinkedIn", URL = "https://www.linkedin.com/in/beingadityak/"}
+  ]
