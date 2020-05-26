@@ -1,34 +1,36 @@
 ---
 layout: page
-title: About
-date: 2010-12-31 23:00:00 +0000
+title: "About"
+date: 2020-05-27T00:13:52+05:30
 menu:
   main:
     weight: 1
-
 ---
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+**Hi Everyone!**
 
-There are currently two themes built on Poole:
+![Aditya Krishnakumar](/me.jpg)
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Welcome to my website!
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+I am Aditya Krishnakumar, a DevOps Engineer based out of India. I'm mostly into AWS, GCP & Azure Cloud these days and I like to tinker around stuff like testing out new software (I also advocate self-hosting stuff as well), automating certain things from my job, checking out new products and services offered by the mentioned clouds etc.
 
-## Setup
+Apart from the major clouds, I also like to hack stuff using Linode as my development platform. I find it to have a very simple pricing, DDoS protected network etc.
 
-Some fun facts about the setup of this project include:
+On the technical side of things, I've worked with these tools/tech either professionally or as a personal project:
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+1. AWS core toolset (EC2, EBS, S3, CloudFront, Route53, VPC) as well as their niche offerings (Elastic Beanstalk, Lambda, API Gateway, etc.)
+2. GCP tools (GKE, Compute Engine, VPC, Cloud Build, GCR etc.)
+3. CI tools such as Jenkins, TravisCI, BitBucket Pipelines, GitLab CI
+4. PaaS platforms such as Heroku
+5. and a lot more...
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+More of this can be found in my [resume](/resume.pdf).
 
-Thanks for reading!
+I also have presence in [GitHub](https://github.com/beingadityak), [Twitter](https://twitter.com/beingadityak_), [LinkedIn](https://www.linkedin.com/in/beingadityak) & many more platforms.
+
+I also like to write about:
+
+1. System Administration
+2. Cloud Platforms (AWS, GCP & Azure)
+3. Cloud-native tech (Docker, k8s etc.)
