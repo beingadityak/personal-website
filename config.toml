@@ -1,4 +1,4 @@
-baseURL = "https://www.beingadityak.com/"
+baseURL = "https://beingadityak.com/"
 languageCode = "en-us"
 title = "The Ops Blog"
 theme = "hyde"
