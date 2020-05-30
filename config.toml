@@ -2,6 +2,7 @@ baseURL = "https://beingadityak.com/"
 languageCode = "en-us"
 title = "The Ops Blog"
 theme = "hyde"
+googleAnalytics = "UA-168023992-1"
 
 [params]
   description = "This is a blog about System Administration, AWS & Operations in general"
