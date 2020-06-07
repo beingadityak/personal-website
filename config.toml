@@ -11,6 +11,7 @@ disqusShortname = "beingadityak"
 
 [Menus]
   main = [
+      {Name = "Posts", URL = "/posts"},
       {Name = "Aditya's Github", URL = "https://github.com/beingadityak/"},
       {Name = "Aditya's LinkedIn", URL = "https://www.linkedin.com/in/beingadityak/"}
   ]

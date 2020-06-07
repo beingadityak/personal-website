@@ -1,14 +1,7 @@
----
-layout: page
-title: "About"
-date: 2020-05-27T00:13:52+05:30
-menu:
-  main:
-    weight: 1
----
-
-**Hi Everyone!**
-
++++
+layout = "about"
+title = "Hi Everyone!"
++++
 ![Aditya Krishnakumar](/me.jpg)
 
 Welcome to my website!
