@@ -1,3 +1,3 @@
 # Aditya Krishnakumar's Website
 
-Something new is coming up! **Stay tuned!**
+My website, hosted from Hugo pages.
