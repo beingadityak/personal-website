@@ -12,6 +12,7 @@ hugo --minify # if using a theme, replace with `hugo -t <YOURTHEME>`
 cd public
 
 # Add changes to git.
+
 git add .
 
 # Commit changes.
@@ -22,4 +23,5 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push origin master
+#git push origin master
+git push -f git@github.com:beingadityak/beingadityak.github.io.git
