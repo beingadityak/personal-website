@@ -8,20 +8,19 @@ printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 # Build the project.
 hugo --minify # if using a theme, replace with `hugo -t <YOURTHEME>`
 
-# Go To Public folder
-cd public
+# # Go To Public folder
+# cd public
 
-# Add changes to git.
-
-git add .
+# # Add changes to git.
+# git add .
 
 # Commit changes.
-msg="rebuilding site $(date)"
-if [ -n "$*" ]; then
-	msg="$*"
-fi
-git commit -m "$msg"
+# msg="rebuilding site $(date)"
+# if [ -n "$*" ]; then
+# 	msg="$*"
+# fi
+# git commit -m "$msg"
 
 # Push source and build repos.
 #git push origin master
-git push -f git@github.com:beingadityak/beingadityak.github.io.git
+git push website `git subtree split --prefix public master`:master --force
