@@ -1,6 +1,7 @@
 +++
+title = "About Aditya"
+date = 2020-06-06T11:25:22+05:30
 layout = "about"
-title = "Hi Everyone!"
 +++
 ![Aditya Krishnakumar](/me.jpg)
 
