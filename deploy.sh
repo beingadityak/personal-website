@@ -26,8 +26,6 @@ hugo --minify # if using a theme, replace with `hugo -t <YOURTHEME>`
 cd public
 echo 'beingadityak.com' > CNAME
 
-git add .
-
 msg="rebuilding site $(date)"
 if [ -n "$*" ]; then
 	msg="$*"
