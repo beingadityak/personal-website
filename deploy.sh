@@ -23,4 +23,15 @@ hugo --minify # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Push source and build repos.
 #git push origin master
+cd public
+echo 'beingadityak.com' > CNAME
+
+git add .
+
+msg="rebuilding site $(date)"
+if [ -n "$*" ]; then
+	msg="$*"
+fi
+git commit -m "$msg"
+cd ..
 git push website `git subtree split --prefix public master`:master --force
